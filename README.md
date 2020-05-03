@@ -30,8 +30,8 @@ AntiCheat Özelliklerimiz Nelerdir
 + FACEBOOK : fb.com/merx06
 
 REFERANS
-	Hanedan Online(Pk)
-	Sultanko 
+1.	Hanedan Online(Pk)
+2.	Sultanko 
 
 SIKÇA SORULAN SORULAR
 SOURCE FİYATLARA DAHİL Mİ ?
