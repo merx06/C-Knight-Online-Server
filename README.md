@@ -33,19 +33,30 @@ REFERANS
 1.	Hanedan Online(Pk)
 2.	Sultanko 
 
+
+
+
+
+
 SIKÇA SORULAN SORULAR
-SOURCE FİYATLARA DAHİL Mİ ?
-•	Hayır Sadece Files + Database ve AntiCheat Dahildir.
-ANTİCHEAT GÜNCELLEME VAR MI ?
-•	Evet Sürekli Anticheat tarafınıza iletilecektir.
-KURULUMU BİZ Mİ YAPIYORUZ ?
-•	Hayır Kurulum ve Tüm Düzenlemeler Tarafımızdan Yapılacaktır ve Eksiksiz Teslim Edilecektir.
-SUNUCUYU SİZ Mİ VERİYORSUNUZ ?
-•	Hayır Sunucuyu Siz Alıyorsunuz.
-V2228 Hizmet
-•	24xx,22xx Serverlar için hizmet vermekteyiz.
-YAKINDA
-•	1299/1453/1950 Gibi Kurulumlar İçin şuan çalışıyoruz yakın zamanda bu sistemler ile ilgilide bilgi verilecektir.
-ÖNEMLİ
-•	Kredi Kartı ile işlem yapmak isteyen müşterilerimize papara.com, ziraatbank.com.tr, üzerinden güvenle taksitli olarak alışverişlerini gerçekleştirme imkanımız vardır.
+1.	SOURCE FİYATLARA DAHİL Mİ ?
+Hayır Sadece Files + Database ve AntiCheat Dahildir.
+
+2.	ANTİCHEAT GÜNCELLEME VAR MI ?
+Evet Sürekli Anticheat tarafınıza iletilecektir.
+
+3.	KURULUMU BİZ Mİ YAPIYORUZ ?
+Hayır Kurulum ve Tüm Düzenlemeler Tarafımızdan Yapılacaktır ve Eksiksiz Teslim Edilecektir.
+
+4.	SUNUCUYU SİZ Mİ VERİYORSUNUZ ?
+Hayır Sunucuyu Siz Alıyorsunuz.
+
+5.	V24xx Hizmet
+22xx Serverlar için hizmet vermekteyiz.
+
+6.	YAKINDA
+1299/1453/1950 Gibi Kurulumlar İçin şuan çalışıyoruz yakın zamanda bu sistemler ile ilgilide bilgi verilecektir.
+
+7.	ÖNEMLİ
+Kredi Kartı ile işlem yapmak isteyen müşterilerimize papara.com, ziraatbank.com.tr, üzerinden güvenle taksitli olarak alışverişlerini gerçekleştirme imkanımız vardır.
 
