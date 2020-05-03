@@ -36,9 +36,14 @@ REFERANS
 
 SIKÇA SORULAN SORULAR
 •	Paketlerimize Sadece Files + Database ve AntiCheat dahildir.
+
 •	Anticheat ve server sürekli otonom olarak güncellenmektedir.
-•	Kurulum ve tüm düzenlemeler tarafımızca yapılıp sizlere sorunsuz şekilde teslim edilmektedi.r
+
+•	Kurulum ve tüm düzenlemeler tarafımızca yapılıp sizlere sorunsuz şekilde teslim edilmektedir.
+
 •	Sunucu size ait. İstediğiniz bilişimden sunucu alabilirsiniz. (Anlaşmalı sunucularımız mevcut. Daha uygun fiyatlara DC sunucu satın alabilirsiniz.)
+
 •	24xx Serverlar için hizmet vermekteyiz.
+
 •	Kredi Kartı ile işlem yapmak isteyen müşterilerimize papara.com, ziraatbank.com.tr, üzerinden güvenle taksitli olarak alışverişlerini gerçekleştirme imkanımız vardır.
 
