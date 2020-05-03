@@ -33,15 +33,12 @@ REFERANS
 1.	Hanedan Online(Pk)
 2.	Sultanko 
 
-•	Sadece Files + Database ve AntiCheat Dahildir.
 
-•	Anticheat ve server güncellemesi oto şekilde güncellenecektir.
-
-•	Kurulum ve Tüm Düzenlemeler Tarafımızdan Yapılıp size Eksiksiz Teslim Edilmektedir.
-
-•	Sunucuyu Siz Alıyorsunuz.
-
+SIKÇA SORULAN SORULAR
+•	Paketlerimize Sadece Files + Database ve AntiCheat dahildir.
+•	Anticheat ve server sürekli otonom olarak güncellenmektedir.
+•	Kurulum ve tüm düzenlemeler tarafımızca yapılıp sizlere sorunsuz şekilde teslim edilmektedi.r
+•	Sunucu size ait. İstediğiniz bilişimden sunucu alabilirsiniz. (Anlaşmalı sunucularımız mevcut. Daha uygun fiyatlara DC sunucu satın alabilirsiniz.)
 •	24xx Serverlar için hizmet vermekteyiz.
-
 •	Kredi Kartı ile işlem yapmak isteyen müşterilerimize papara.com, ziraatbank.com.tr, üzerinden güvenle taksitli olarak alışverişlerini gerçekleştirme imkanımız vardır.
 
