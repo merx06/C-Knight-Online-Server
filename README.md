@@ -36,7 +36,7 @@ REFERANS
 
 SIKÇA SORULAN SORULAR
 
-•	Paketlerimize Sadece Files + Database ve AntiCheat dahildir.
+•	Paketlerimizde Server Files, Database, Client, AntiCheat, PUS, KOPanel(4 Adet), Çarkıfelek ve ESN dahildir.
 
 •	Anticheat ve server sürekli otonom olarak güncellenmektedir.
 
