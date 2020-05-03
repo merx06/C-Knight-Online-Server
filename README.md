@@ -35,6 +35,7 @@ REFERANS
 
 
 SIKÇA SORULAN SORULAR
+
 •	Paketlerimize Sadece Files + Database ve AntiCheat dahildir.
 
 •	Anticheat ve server sürekli otonom olarak güncellenmektedir.
