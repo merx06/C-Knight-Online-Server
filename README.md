@@ -1,8 +1,8 @@
 [24xx] Files & Anticheat & Database & Panel Uygun Fiyatlar
-•	Kendi serverinizi kurmak mı istiyorsunuz?
-•	O zaman doğru yerdesiniz.
-•	Bizimle Discord yada Facebook aracılığı ile iletişime geçerek kafanızdaki server’i tasarlayabiliriz.
-•	Bizden iyisi yok! En uygun fiyat garantisi ile sizlere hizmet veriyoruz…
+1.	Kendi serverinizi kurmak mı istiyorsunuz?
+2.	O zaman doğru yerdesiniz.
+3.	Bizimle Discord yada Facebook aracılığı ile iletişime geçerek kafanızdaki server’i tasarlayabiliriz.
+4.	Bizden iyisi yok! En uygun fiyat garantisi ile sizlere hizmet veriyoruz…
 
 AntiCheat Özellikle Neler var?
 -   0.(HeuristicWinScan) Koruma Aktif. 
