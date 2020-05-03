@@ -1,7 +1,7 @@
 [24xx] Files & Anticheat & Database & Panel Uygun Fiyatlar
 1.	Kendi serverinizi kurmak mı istiyorsunuz?
 2.	O zaman doğru yerdesiniz.
-3.	Bizimle Discord yada Facebook aracılığı ile iletişime geçerek kafanızdaki server’i tasarlayabiliriz.
+3.	Bizimle Discord yada Facebook aracılığı ile iletişime geçerek kafanızdaki server’i  sizlere tasarlayabiliriz.
 4.	Bizden iyisi yok! En uygun fiyat garantisi ile sizlere hizmet veriyoruz…
 
 AntiCheat Özelliklerimiz Nelerdir
@@ -18,11 +18,11 @@ AntiCheat Özelliklerimiz Nelerdir
 -   10.(TblScan) Koruma Aktif. 
 -   11.(ExeScan) Knight Online Client Koruma Aktif.
 -   12.(AntiSuspen) Koruma Aktif. 
--   13.(Şifreleme) Tbl Koruma Aktif.
--   14.(TblTarama) Data Otamatik yükleme Ftp ve httpss Güncelleme Aktif.
+-   13.(Şifreleme) TBL Koruma Aktif. (Sürekli ve anlık kontrol)
+-   14.(TblTarama) Data Otamatik yükleme Ftp Güncelleme Aktif.
 -   15.(Hardware-Mackey) Pc Banned sistem Aktif.
 -   16.(D-c) Live sistem Aktif.
--   17.(Dll ile Files) Pake haberleştirmek Aktif.
+-   17.(Dll ile Files) Server-Client haberleşme sistemi.
 -   18.(Memory keyVersion) Exe Asm ile Dll bağlantısı Aktif.
 
 İLETİŞİM
@@ -46,4 +46,5 @@ SIKÇA SORULAN SORULAR
 •	24xx Serverlar için hizmet vermekteyiz.
 
 •	Kredi Kartı ile işlem yapmak isteyen müşterilerimize papara.com, ziraatbank.com.tr, üzerinden güvenle taksitli olarak alışverişlerini gerçekleştirme imkanımız vardır.
+
 
