@@ -4,7 +4,7 @@
 3.	Bizimle Discord yada Facebook aracılığı ile iletişime geçerek kafanızdaki server’i tasarlayabiliriz.
 4.	Bizden iyisi yok! En uygun fiyat garantisi ile sizlere hizmet veriyoruz…
 
-AntiCheat Özellikle Neler var?
+AntiCheat Özelliklerimiz Nelerdir
 -   0.(HeuristicWinScan) Koruma Aktif. 
 -   1.(HeuristicClassScan) Koruma Aktif. 
 -   2.(DriverScan) Koruma Aktif.
@@ -30,8 +30,8 @@ AntiCheat Özellikle Neler var?
 + FACEBOOK : fb.com/merx06
 
 REFERANS
-> Hanedan Online(Pk)
-> Sultanko 
+	Hanedan Online(Pk)
+	Sultanko 
 
 SIKÇA SORULAN SORULAR
 SOURCE FİYATLARA DAHİL Mİ ?
